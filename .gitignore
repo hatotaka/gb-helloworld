@@ -1,0 +1,5 @@
+# gb
+bin
+pkg
+vendor/*
+!vendor/manifest
